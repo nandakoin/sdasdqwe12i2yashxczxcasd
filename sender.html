@@ -1,0 +1,24 @@
+<!-- ini cuman simple page dari sender function aja, nanti bisa dicampur sama html lain sesuai yang agan mau, ini saya bikin contek mirip banget sama punya fakecez sesuai requestnya agan. -->
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+  <title>Simple POST Request</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <a href="https://linkpays.in/F79GnY">
+    <button id="G" style="background-color: #007bff; border: none; color: white; cursor: pointer; padding: 10px 20px;">
+      Get Key
+    </button>
+  </a>
+<script>
+  $("#G").on("click", function() {
+    $.post("https://nandakoin.xyz/test/c.php", "1");
+  });
+</script>
+
+</body>
+</html>
