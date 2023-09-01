@@ -7,7 +7,7 @@ Konsep flowchart simple :
 
 
 
-![Logo](https://i.ibb.co/LxxxL4r/sample-keygen.png)
+![Logo](https://i.ibb.co/dpNsJsw/sample-keygen.png)
 
 
 ## Hal-hal yang perlu diedit
